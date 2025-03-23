@@ -14,8 +14,8 @@ The CIFAR-10 dataset consists of 60,000 images (32x32 pixels in RGB) categorized
 
 
 ## Project phases
-I. **Machine Learning Approach**
-
+I. **Machine Learning Approach**  
+  
   This phase involves feature extraction and classification using traditional ML algorithms.
   
   Steps:
@@ -41,7 +41,7 @@ I. **Machine Learning Approach**
     -- Stacking Classifier (Combining multiple classifiers)
   
   - Evaluate and compare classification accuracy.
-
+<br></br>
 
 II. **Deep Learning Approach**
 
