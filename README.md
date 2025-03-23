@@ -42,6 +42,7 @@ I. **Machine Learning Approach**
   
   - Evaluate and compare classification accuracy.
 
+
 II. **Deep Learning Approach**
 
   This phase applies Convolutional Neural Networks (CNNs) for classification.
