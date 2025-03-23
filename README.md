@@ -13,7 +13,7 @@ The goal is to compare the performance of both approaches and determine their ef
 The CIFAR-10 dataset consists of 60,000 images (32x32 pixels in RGB) categorized into 10 classes with 6,000 images per class. There are 50,000 training images and 10,000 test images.
 
 
-## Project phases
+## Project Methodology
 I. **Machine Learning Approach**  
   
   This phase involves feature extraction and classification using traditional ML algorithms.
