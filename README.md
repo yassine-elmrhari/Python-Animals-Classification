@@ -1,4 +1,4 @@
-# Python-Animals-Classification
+# Python-Animals-Classification with GUI
 
 
 ## Description
