@@ -16,51 +16,51 @@ The CIFAR-10 dataset consists of 60,000 images (32x32 pixels in RGB) categorized
 ## Project phases
 1. **Machine Learning Approach**
 
-This phase involves feature extraction and classification using traditional ML algorithms.
-
-Steps:
-
-- Extract image features using:
-
-  -- Hu Moments (Shape descriptor)
-
-  -- Haralick Features (Texture descriptor)
-
-  -- Color Histogram (Color descriptor)
-
-- Train ML classifiers including:
-
-  -- K-Nearest Neighbors (KNN)
-
-  -- Support Vector Machine (SVM)
-
-  -- Random Forest (RF)
-
-  -- Linear Discriminant Analysis (LDA)
-
-  -- Stacking Classifier (Combining multiple classifiers)
-
-- Evaluate and compare classification accuracy.
+  This phase involves feature extraction and classification using traditional ML algorithms.
+  
+  Steps:
+  
+  - Extract image features using:
+  
+    -- Hu Moments (Shape descriptor)
+  
+    -- Haralick Features (Texture descriptor)
+  
+    -- Color Histogram (Color descriptor)
+  
+  - Train ML classifiers including:
+  
+    -- K-Nearest Neighbors (KNN)
+  
+    -- Support Vector Machine (SVM)
+  
+    -- Random Forest (RF)
+  
+    -- Linear Discriminant Analysis (LDA)
+  
+    -- Stacking Classifier (Combining multiple classifiers)
+  
+  - Evaluate and compare classification accuracy.
 
 2. **Deep Learning Approach**
 
-This phase applies Convolutional Neural Networks (CNNs) for classification.
-
-Model Architecture:
-
-- VGG-inspired CNN with:
-
-  -- Multiple convolutional layers
-
-  -- Batch normalization
-
-  -- Dropout for regularization
-
-  -- Fully connected layers for classification
-
-- Trained using Adam optimizer and categorical cross-entropy loss function.
-
-- Data augmentation techniques (flipping, shifting, zooming) are applied to improve performance.
+  This phase applies Convolutional Neural Networks (CNNs) for classification.
+  
+  Model Architecture:
+  
+  - VGG-inspired CNN with:
+  
+    -- Multiple convolutional layers
+  
+    -- Batch normalization
+  
+    -- Dropout for regularization
+  
+    -- Fully connected layers for classification
+  
+  - Trained using Adam optimizer and categorical cross-entropy loss function.
+  
+  - Data augmentation techniques (flipping, shifting, zooming) are applied to improve performance.
 
 
 ## Implementation
