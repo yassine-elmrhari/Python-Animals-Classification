@@ -14,7 +14,7 @@ The CIFAR-10 dataset consists of 60,000 images (32x32 pixels in RGB) categorized
 
 
 ## Project phases
-1. **Machine Learning Approach**
+I. **Machine Learning Approach**
 
   This phase involves feature extraction and classification using traditional ML algorithms.
   
@@ -42,7 +42,7 @@ The CIFAR-10 dataset consists of 60,000 images (32x32 pixels in RGB) categorized
   
   - Evaluate and compare classification accuracy.
 
-2. **Deep Learning Approach**
+II. **Deep Learning Approach**
 
   This phase applies Convolutional Neural Networks (CNNs) for classification.
   
